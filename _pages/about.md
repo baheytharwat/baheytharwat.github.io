@@ -7,9 +7,9 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am Bahey Tharwat, a PhD student based in Freiburg, Germany. 
+I am an [ELLIS](https://ellis.eu/) Ph.D. student at the [Robot Learning Lab](https://rl.uni-freiburg.de/), University of Freiburg, where I work with [Prof. Dr. Abhinav Valada](https://rl.uni-freiburg.de/people/valada). My research lies at the intersection of robot learning, world models, and continual learning. 
 
-<!-- Add your bio, research interests, and background here. -->
+Previously, I completed my Master’s degree in Computer Vision at [MBZUAI](https://mbzuai.ac.ae/), where I was advised by [Prof. Ian Reid](https://mbzuai.ac.ae/academics/faculty-directory/ian-reid) and received the MSc Learning Achievement Award. Before that, I was a Deep Learning Engineer at [Valeo](https://www.valeo.com/), developing perception models for Advanced Driving Assistance Systems (ADAS).
 
 ## News
 
